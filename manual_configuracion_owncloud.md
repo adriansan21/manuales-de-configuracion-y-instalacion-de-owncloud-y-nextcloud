@@ -5,6 +5,7 @@ Adrián Sánchez Rodríguez
 ## Creación de la cuenta de administrador
 
 1. Creamos el usuario de administrador y introducimos una contraseña. En la parte de abajo de la configuración introducimos el usuario, la contraseña y el nombre de la base de datos que hemos creado en la instalación de mysql. Una vez ya hemos introducido los datos le damos a `Acaba la configuració`.
+
 ![Cuenta de administrador](imagenes/adminOC.png)
 
 ## Creación de un usuario nuevo
