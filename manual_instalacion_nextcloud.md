@@ -4,7 +4,7 @@ Adrián Sánchez Rodríguez
 
  1. Lo primero que hay que hacer es descargar Nextcloud. Para ello accedemos a https://nextcloud.com/install/#instructions-server y le damos a Download Nextcloud.
 
-![descargar](/imagenes/descargar.png)
+![descargar](imagenes/descargar.png)
 
 2. Movemos el fichero que nos hemos descargargado a la carpeta donde esta vagrant, que por así decirlo es como una carpeta compartida entre la máquina local y la virtual. En mi caso lo pasaré de Baixades a la carpeta clouds, que es donde tengo el vagrant.
 ~~~
