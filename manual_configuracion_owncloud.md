@@ -64,10 +64,12 @@ Para subir una carpeta lo que hay que hacer es lo siguiente:
   ![Carpeta](imagenes/ocnuevacarpeta.png)
 
 3. Ponemos nombre de la carpeta y le damos al enter
+
 ![Nombre de la carpeta](imagenes/occarpeta1.png)
 
 ## Compartir un fichero o carpeta
 1. Nos vamos al apartado `Fitxers`. Para ello le damos a las 3 barras de arriba a la izquierda y seleccionamos `Fitxers`.
+
 ![Fitxers](imagenes/ocfitxers.png)
 
 2. Seleccionamos el fichero o carpeta que queremos compartir y le damos al símbolo de compartir.
@@ -75,4 +77,5 @@ Para subir una carpeta lo que hay que hacer es lo siguiente:
   ![Compartir](imagenes/occompartir.png)
 
 3. Seleccionamos los usuarios y/o grupos con los que queremos compartir un fichero o una carpeta:
+
 ![Compartir un fichero o una carpeta](imagenes/ocuserandgroupscompartir.png)
