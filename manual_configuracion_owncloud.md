@@ -17,23 +17,29 @@ Adrián Sánchez Rodríguez
 - Nombre.
 - Correo.
 - Grupos a los que queremos añadir al usuario.
+
 ![Datos usuario nuevo](imagenes/ocusuario1.png)
 
 ## Creación de un grupo nuevo
 1. Hacemos clic en el nombre de nuestro usuario y luego en `Usuaris`.
+
 ![Nuevo usuario](imagenes/ocusuarionuevo.png)
 
 2. En la parte izquierda le damos a `+ Afegeix grup`.
+
 ![Añadir grupo](imagenes/ocafegeixgrup.png)
 
 3. Ponemos el nombre que queremos al grupo y le damos al `+`:
+
 ![Grupo 1](imagenes/ocgrupo1.png)
 
 ## Añadir un usuario a un grupo
 1. Nos vamos al apartado `Usuaris`. Para ello hacemos clic en el nombre de nuestro usuario y luego en `Usuaris`.
+
 ![Usuarios](imagenes/ocusuarionuevo.png)
 
 2. Una vez en `Usuaris`, seleccionamos el usuario el cual queremos añadir a un grupo, en mi caso será el usuario `adrian`.
+
 ![Añadir usuario a un grupo](imagenes/ocusuariogrupo.png)
 
 3. Le damos a `Grups`y luego seleccionamos los grupos a los que queremos añadir al usuario:
