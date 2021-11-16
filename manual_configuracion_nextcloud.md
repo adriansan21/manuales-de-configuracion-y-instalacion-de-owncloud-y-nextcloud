@@ -62,7 +62,7 @@ Adrián Sánchez Rodríguez
 
 2. Para crear o subir un archivo lo que hay que hacer es darle al símbolo de `+`, que se encuentra en la parte de arriba.
 
-  ![Símbolo +](imagenes/+.png)
+![Símbolo +](imagenes/+.png)
 
 3. Una vez ya le hemos dado al `+`, ahora tenemos que decidir lo que vamos a hacer, si crear un archivo (documento, hoja de cálculo, presentación...) o si vamos a subir un archivo desde nuestra máquina. Dependiendo de lo que vayamos a hacer seleccionamos una u otra opción.
 
