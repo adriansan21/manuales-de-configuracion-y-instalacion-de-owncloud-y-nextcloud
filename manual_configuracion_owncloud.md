@@ -10,6 +10,7 @@ Adrián Sánchez Rodríguez
 
 ## Creación de un usuario nuevo
 1. Hacemos clic en el nombre de nuestro usuario y luego en `Usuaris`.
+
 ![Nuevo usuario](imagenes/ocusuarionuevo.png)
 
 2. En la parte de arriba introducimos los datos que nos pide, que son los siguientes:
