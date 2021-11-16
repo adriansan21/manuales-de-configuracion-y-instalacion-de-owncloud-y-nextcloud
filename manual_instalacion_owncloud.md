@@ -1,6 +1,6 @@
 Adrián Sánchez Rodríguez
 
-# Manual de instalación de Owncloud
+# Manual de instalación de OwnCloud
 
 ## Crear el contenedor
 ~~~
