@@ -1,4 +1,4 @@
-# manuales-de-configuracion-y-instalacion-de-owncloud-y-nextcloud
+# Manuales de configuración y instalación de OwnCloud y NextCloud
 Manuales de configuración y instalación de OwnCloud y NextCloud
 <!-- [click on this link](#my-multi-word-header) -->
 
